@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biki
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning problem solving
+- 🌱 I’m currently learning DSA , OOPS
 - 📫 How to reach me through my gmail @biki2004gmail.com
 
 <!---
